@@ -23,16 +23,16 @@ global.ig = '' // ubah aja
 global.email = 'zallmods992@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Krisna Ofc? ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'KrisnaBotz Attacker? ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'KrisnaBotz Attacker' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283195366404','6283833031795','6283877604686','62895330006855'] // ubah aja pake nomor lu
-global.premium = ['6283195366404'] // ubah aja pake nomor lu
-global.packname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' // ubah aja
-global.ownerr = ['𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒'] // ubaha aja
-global.author = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah aja
+global.owner = ['628871744663','6288210763527','6288294276026'] // ubah aja pake nomor lu
+global.premium = ['628871744663'] // ubah aja pake nomor lu
+global.packname = 'Attacker Botz' // ubah aja
+global.ownerr = ['Krisna Ofc'] // ubaha aja
+global.author = 'Krisna Ofc' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
